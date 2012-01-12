@@ -26,5 +26,5 @@ FAQ
 -------------------------------------------------------------------------
 1. WTF??
 
-	_Yes, WTF is the rigth answer_
+	_Yes, WTF is the right answer_
 
